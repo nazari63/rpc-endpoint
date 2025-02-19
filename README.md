@@ -85,3 +85,5 @@ The code in this project is free software under the [MIT license](LICENSE).
 ---
 
 Made with ☀️  by the ⚡🤖 collective.
+
+This project is a demonstration of blockchain technology and smart contract integration.
